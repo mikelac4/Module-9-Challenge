@@ -43,6 +43,30 @@ function renderLicenseBadge(license) {
   * [Tests](#tests)
   * [License](#license)
   * [Questions](#questions)
+  
+  ## Installation
+
+  ${data.installation}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## License
+
+  ${data.license}
+
+  ## Contributing
+
+  ${data.contributing}
+
+  ## Tests
+
+  ${data.tests}
+
+  ## Questions
+
+  For any questions please contact me via email at ${data.email} or on <a href="https://github.com/${data.username}">GitHub.</a>
   `;
   }
   
