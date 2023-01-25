@@ -66,7 +66,10 @@ inquirer
     .then((data) => {
         const readMe = generateMarkdown(data);
 
-        
+        fs.writeFile('README.md', readMe, (err) => 
+        err ? console.log(err) : console.log('README.md created')
+        );
+    });  
 
 
 
