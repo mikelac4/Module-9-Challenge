@@ -31,7 +31,36 @@ inquirer
             message: 'Provide instructions for use',
         },
 
-        
+        {
+            type: 'input',
+            name: 'contributing',
+            message: 'Provide instructions for contrubutions.',
+        },
+
+        {
+            type: 'input',
+            name: 'tests',
+            message: 'Provide instructions for testing.',
+        },
+
+        {
+            type: 'checkbox',
+            message: 'What license are you using?',
+            name: 'license',
+            choices: ['MIT']
+        },
+
+        {
+            type: 'input',
+            name: 'username',
+            message: 'What is your GitHub username',
+        },
+
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email?',
+        }  
     ])
 
     
