@@ -36,6 +36,13 @@ function renderLicenseBadge(license) {
   
   ${data.description}
   
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [License](#license)
+  * [Questions](#questions)
   `;
   }
   
