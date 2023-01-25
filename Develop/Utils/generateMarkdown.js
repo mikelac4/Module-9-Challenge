@@ -66,7 +66,7 @@ function renderLicenseBadge(license) {
 
   ## Questions
 
-  For any questions please contact me via email at ${data.email} or on <a href="https://github.com/${data.username}">GitHub.</a>
+  For any questions please contact me via email at ${data.email} or on GitHub ${data.username}">
   `;
   }
   

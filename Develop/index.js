@@ -28,7 +28,7 @@ inquirer
         {
             type: 'input',
             name: 'usage',
-            message: 'Provide instructions for use',
+            message: 'Provide instructions for use.',
         },
 
         {
@@ -53,7 +53,7 @@ inquirer
         {
             type: 'input',
             name: 'username',
-            message: 'What is your GitHub username',
+            message: 'What is your GitHub username?',
         },
 
         {
