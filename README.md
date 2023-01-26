@@ -26,6 +26,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Screenshot
 
+![read](https://user-images.githubusercontent.com/112447725/214721834-02380ca4-89d4-4e1b-a5ac-4519652e355f.png)
+![read2](https://user-images.githubusercontent.com/112447725/214721847-fa47b691-6880-4ed2-8e45-2e9d6257f2d0.png)
 
 
 ## Links
